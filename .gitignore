@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+
+# Gradle
+.gradle/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# WPILib Transients
+/simgui*.json
+/networktables.json
+

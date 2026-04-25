@@ -39,4 +39,4 @@ Additional documentation can be found in the `docs/` directory:
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Branch Purpose: vanguard
-The master state machine; managing transitions between Auto, Teleop, and Test.
+Preloading intelligent systems before the end of autonomous.

@@ -38,5 +38,5 @@ Additional documentation can be found in the `docs/` directory:
 ## License
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
-## Branch Purpose: main
-This branch contains only proven, competition-ready code.
+## Branch Purpose: petruchio
+The tamer of the motors; advanced current limiting and brownout protection.

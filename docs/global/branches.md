@@ -13,7 +13,6 @@ This document outlines the specific purpose and role of the key functional branc
 | `desdemona` | The safety watchdog; monitors for mechanical stress and triggers emergency stops. |
 | `init-build` | Starting build branch. |
 | `manhattan` | Power distribution management and battery voltage compensation logic. |
-| `neptune` | Formerly `overlord`. Contains prior experiments. |
 | `overloade` | Advanced interface panel. |
 | `paperclip` | Data logging and post-match black-box analysis. |
 | `petruchio` | The tamer of the motors; advanced current limiting and brownout protection. |

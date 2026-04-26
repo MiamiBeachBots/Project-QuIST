@@ -8,7 +8,7 @@ This document outlines the specific purpose and role of the key functional branc
 | `dev` | The scratchpad. For raw C++ header templates and boilerplate. |
 | `stage` | Integration area. Where experimental branches are merged to test compatibility. |
 | `RA9` | The AI Driver. High-level path planning and trajectory optimization. |
-| `whitepine` | 3D simulator branch. |
+| `hale` | 3D simulator branch. |
 | `bellerophon` | Wireless communication optimization and radio-link reliability. |
 | `desdemona` | The safety watchdog; monitors for mechanical stress and triggers emergency stops. |
 | `init-build` | Starting build branch. |

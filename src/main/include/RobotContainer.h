@@ -5,6 +5,7 @@
 #pragma once
 
 #include <frc2/command/CommandPtr.h>
+#include "subsystems/DriveSubsystem.h"
 
 class RobotContainer {
  public:
@@ -13,5 +14,9 @@ class RobotContainer {
   frc2::CommandPtr GetAutonomousCommand();
 
  private:
+  DriveSubsystem driveSubsystem;
+
   void ConfigureBindings();
 };
+
+

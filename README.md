@@ -38,5 +38,5 @@ Additional documentation can be found in the `docs/` directory:
 ## License
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
-## Branch Purpose: vanguard
-Preloading intelligent systems before the end of autonomous.
+## Branch Purpose: REDWALL
+This branch serves as a 3d simulator.

@@ -1,7 +1,7 @@
 # Project QuIST
 
 ## Overview
-Project QuIST (Quickly Integrated Software Toolkit) is the primary software repository for the Miami Beach Bots' 2027 FRC robot. This project is implemented in C++ using the WPILib Command-Based framework to provide a robust and scalable architecture for robot control.
+Project QuIST (Quickly Integrated Software Toolkit) is the experimental software repository for the Miami Beach Bots' 2027 FRC robot. This project is implemented in C++ using the WPILib Command-Based framework to provide a robust and scalable architecture for robot control.
 
 ## Status
 The project is currently in the initial development phase. The codebase follows the 2027 WPILib standards.

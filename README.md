@@ -39,4 +39,4 @@ Additional documentation can be found in the `docs/` directory:
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Branch Purpose: red-october
-A dedicated branch for a Field Oriented Control (FOC) implementation. (The Hunt for Red October reference).
+A dedicated branch for a Field Oriented Control (FOC) implementation.
